@@ -1,4 +1,5 @@
-![assets/code.jpg]
+![Alt text](assets/code.jpg)
+
 HII, I'm Gaurav Jha! 👋
 
 # 💫 About Me:
