@@ -1,5 +1,5 @@
 
-#Hii, I am Gaurav Jha
+HII, I'm Gaurav Jha! 👋
 
 # 💫 About Me:
 🚀 Tech Student | Full-Stack Developer   <br>📚 Always learning, always coding  <br>🎯 Goal: Build impactful & scalable Product  <br>
